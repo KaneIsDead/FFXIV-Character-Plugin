@@ -40,4 +40,4 @@ $ffxiv_character_db_version = '1.0';
  
  register_activation_hook( __FILE__, 'ffxiv_character_install' );
  
- >
+?>
